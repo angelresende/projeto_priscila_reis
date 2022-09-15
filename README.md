@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-:health_worker: **PROJETO PRISCILA REIS**
+**PROJETO PRISCILA REIS**
 
 </h1>
 
