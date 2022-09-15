@@ -53,3 +53,11 @@ nav{
     height: 150px
 }
 
+.nav-link {
+    color: #000 !important; 
+}
+
+.nav-tabs .nav-link {
+    background: !important;
+    border: !important;
+}
