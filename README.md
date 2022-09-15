@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-:health_worker: **PROJETO ONG MENTE SÃ**
+:health_worker: **PROJETO PRISCILA REIS**
 
 </h1>
 
